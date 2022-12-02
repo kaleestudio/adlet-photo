@@ -194,7 +194,7 @@ header {
     margin: 0 auto;
     background-color: white;
     width: 640px;
-    height: 520px;
+    height: 620px;
     box-shadow: 2px 7px 36px -1px rgba(80, 59, 34, 0.6);
     border-radius: 15px;
     
@@ -207,14 +207,14 @@ header {
 }
 .w3-content {
     width: 330px;
-    height: 410px;
+    height: 510px;
     box-shadow: 2px 7px 36px -1px rgba(20, 94, 159, 0.282);
     border-radius: 20px;
 }
 .w3-content img {
     width: 330px;
     border-radius: 20px;
-    height: 410px;
+    height: 510px;
 }
 .w3-button {
     margin-top: 10px;
@@ -334,7 +334,7 @@ footer {
     }
     .maincon2 {
         width: 360px;
-        height: 550px;
+        height: 650px;
     }
     .maincon-prise {
         width: 360px;
